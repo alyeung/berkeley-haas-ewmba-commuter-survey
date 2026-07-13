@@ -178,7 +178,7 @@ questions = [
         "ChoiceOrder": ["1", "2", "3", "4"]
     },
     {
-        "QuestionText": "<b>9. How frequently do you use the mandatory AC Transit Class Pass (bus pass) to commute to campus?</b>",
+        "QuestionText": "<b>9. How frequently do you use UC Berkeley transit services (e.g., the Class Pass for AC Transit buses, or Bear Transit campus shuttles) to commute to campus?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",
@@ -191,7 +191,7 @@ questions = [
         "ChoiceOrder": ["1", "2", "3", "4"]
     },
     {
-        "QuestionText": "<b>10. The mandatory campus transit fee (AC Transit Class Pass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?</b>",
+        "QuestionText": "<b>10. The mandatory campus transit fee (UC Berkeley Class Pass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",
@@ -202,35 +202,7 @@ questions = [
         "ChoiceOrder": ["1", "2"]
     },
     {
-        "QuestionText": "<b>11. For a hypothetical program providing guaranteed, hassle-free parking exclusively for professional students on class days, what is the maximum amount you would be willing to pay out-of-pocket PER SEMESTER?</b>",
-        "QuestionType": "MC",
-        "Selector": "SAVR",
-        "SubSelector": "TX",
-        "Choices": {
-            "1": { "Display": "$0 (I would not pay extra / it should be included in tuition)" },
-            "2": { "Display": "Under $150" },
-            "3": { "Display": "$150 - $300" },
-            "4": { "Display": "$300 - $500" },
-            "5": { "Display": "$500+" }
-        },
-        "ChoiceOrder": ["1", "2", "3", "4", "5"]
-    },
-    {
-        "QuestionText": "<b>12. For a hypothetical program providing a premium transit solution (e.g., dedicated shuttles, subsidized rideshare partnerships, or express transit credits) exclusively for professional students on class days, what is the maximum amount you would be willing to pay out-of-pocket PER SEMESTER?</b>",
-        "QuestionType": "MC",
-        "Selector": "SAVR",
-        "SubSelector": "TX",
-        "Choices": {
-            "1": { "Display": "$0 (I would not pay extra / it should be included in tuition)" },
-            "2": { "Display": "Under $150" },
-            "3": { "Display": "$150 - $300" },
-            "4": { "Display": "$300 - $500" },
-            "5": { "Display": "$500+" }
-        },
-        "ChoiceOrder": ["1", "2", "3", "4", "5"]
-    },
-    {
-        "QuestionText": "<b>13. Do you have any additional comments, feedback, or suggestions regarding commuting and parking for EWMBA students?</b>",
+        "QuestionText": "<b>11. Do you have any additional comments, feedback, or suggestions regarding commuting and parking for EWMBA students?</b>",
         "QuestionType": "TE",
         "Selector": "ESTB"
     }
