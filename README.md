@@ -1,4 +1,4 @@
-# UC Berkeley Haas EWMBA Commuter Survey Design
+# Haas Evening and Weekend MBA Commuter Survey Design
 
 *Prepared for Dean Review / Advocacy Proposal*
 
@@ -46,7 +46,7 @@ Here are the specific changes made to the draft questions to optimize them for a
 ## 3. Active Survey Link
 
 The survey is active on your UC Berkeley Qualtrics account:
-👉 **[Haas EWMBA Commuter Survey on Qualtrics](https://berkeley.qualtrics.com/survey-builder/SV_74HH3uxPuJREtIq/edit)**
+👉 **[Haas Evening and Weekend MBA Commuter Survey on Qualtrics](https://berkeley.qualtrics.com/survey-builder/SV_74HH3uxPuJREtIq/edit)**
 
 ### Current Survey Flow & Questions:
 1.  **Intro Block (Text / Graphic):** *"Haas EWMBA Commuter Survey: Help us advocate for better commuting and parking options at Haas. This 3-minute survey is conducted by your EWMBA Association (EWMBAA) officers. Your responses are completely anonymous, confidential, and will be shared directly with Haas leadership."*
@@ -57,7 +57,7 @@ The survey is active on your UC Berkeley Qualtrics account:
 5.  **Q4 (MC):** On average, how long is your one-way commute to Haas?
 6.  **Q5 (Matrix):** Satisfaction with parking availability, cost, safety, public transit, and Haas support.
 7.  **Q6 (MC):** How well do the new commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?
-8.  **Q7 (MC):** **How frequently have parking or transit delays directly disrupted your academic schedule (e.g., arriving late to class, missing a lecture, or missing scheduled group meetings)?**
+8.  **Q7 (MC):** How frequently have parking or transit delays directly disrupted your academic schedule (e.g., arriving late to class, missing a lecture, or missing scheduled group meetings)?
 9.  **Q8 (MC):** If a prospective applicant with a similar professional and geographical profile asked for your honest advice about joining Haas, how would you suggest they view the new commuting and parking situation?
 10. **Q9 (MC):** How frequently do you use UC Berkeley transit services (e.g., the Class Pass for AC Transit buses, or Bear Transit campus shuttles) to commute to campus?
 11. **Q10 (MC):** The mandatory campus transit fee (UC Berkeley Class Pass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?

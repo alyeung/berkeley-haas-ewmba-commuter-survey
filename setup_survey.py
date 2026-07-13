@@ -29,7 +29,7 @@ def make_request(url, method="GET", payload=None):
 # 1. Create survey
 print("Creating survey...")
 survey_payload = {
-    "SurveyName": "EWMBA Commuter Survey",
+    "SurveyName": "Haas Evening and Weekend MBA Commuter Survey",
     "Language": "EN",
     "ProjectCategory": "CORE"
 }
@@ -152,7 +152,7 @@ questions = [
         "ChoiceOrder": ["1", "2", "3", "4", "5"]
     },
     {
-        "QuestionText": "<b>7. How frequently have parking or transit delays directly disrupted your academic schedule (e.g., arriving late to class, missing a lecture, or missing scheduled group meetings)?</b>",
+        "QuestionText": "<b>7. How often have parking or transit delays directly disrupted your academic schedule (e.g., arriving late to class, missing a lecture, or missing scheduled group meetings)?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",
