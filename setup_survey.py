@@ -178,7 +178,7 @@ questions = [
         "ChoiceOrder": ["1", "2", "3", "4"]
     },
     {
-        "QuestionText": "<b>9. How frequently do you use UC Berkeley transit services (e.g., the Class Pass for AC Transit buses, or Bear Transit campus shuttles) to commute to campus?</b>",
+        "QuestionText": "<b>9. How frequently do you use UC Berkeley transit services (e.g., the UC Berkeley BayPass, or Bear Transit campus shuttles) to commute to campus?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",
@@ -191,7 +191,7 @@ questions = [
         "ChoiceOrder": ["1", "2", "3", "4"]
     },
     {
-        "QuestionText": "<b>10. The mandatory campus transit fee (UC Berkeley Class Pass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?</b>",
+        "QuestionText": "<b>10. The mandatory campus transit fee (UC Berkeley BayPass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",

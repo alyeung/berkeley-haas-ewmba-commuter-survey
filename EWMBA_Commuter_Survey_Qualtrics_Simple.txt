@@ -51,13 +51,13 @@ It is a minor factor (manageable annoyance, but should not affect enrollment).
 It is a significant factor (should be weighed against competing programs like Wharton SF or Stanford).
 It is a critical factor (should actively discourage enrolling unless they live near campus).
 
-9. How frequently do you use UC Berkeley transit services (e.g., the Class Pass for AC Transit buses, or Bear Transit campus shuttles) to commute to campus?
+9. How frequently do you use UC Berkeley transit services (e.g., the UC Berkeley BayPass, or Bear Transit campus shuttles) to commute to campus?
 Never
 Rarely (1-2 times per semester)
 Occasionally (1-2 times per month)
 Frequently (Weekly or daily)
 
-10. The mandatory campus transit fee (UC Berkeley Class Pass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?
+10. The mandatory campus transit fee (UC Berkeley BayPass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?
 Yes, I would choose to opt out of the fee.
 No, I would choose to remain opted in.
 

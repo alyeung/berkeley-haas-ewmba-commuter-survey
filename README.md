@@ -59,8 +59,8 @@ The survey is active on your UC Berkeley Qualtrics account:
 7.  **Q6 (MC):** How well do the new commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?
 8.  **Q7 (MC):** How frequently have parking or transit delays directly disrupted your academic schedule (e.g., arriving late to class, missing a lecture, or missing scheduled group meetings)?
 9.  **Q8 (MC):** If a prospective applicant with a similar professional and geographical profile asked for your honest advice about joining Haas, how would you suggest they view the new commuting and parking situation?
-10. **Q9 (MC):** How frequently do you use UC Berkeley transit services (e.g., the Class Pass for AC Transit buses, or Bear Transit campus shuttles) to commute to campus?
-11. **Q10 (MC):** The mandatory campus transit fee (UC Berkeley Class Pass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?
+10. **Q9 (MC):** How frequently do you use UC Berkeley transit services (e.g., the UC Berkeley BayPass, or Bear Transit campus shuttles) to commute to campus?
+11. **Q10 (MC):** The mandatory campus transit fee (UC Berkeley BayPass) is automatically charged to all students. If given the option, would you choose to opt-out of this fee to reduce your semester tuition/fees?
 12. **Q11 (TE):** Do you have any additional comments, feedback, or suggestions regarding commuting and parking for EWMBA students?
 
 ---
