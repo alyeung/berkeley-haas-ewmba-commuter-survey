@@ -20,13 +20,13 @@ Here are the specific changes made to the draft questions to optimize them for a
 
 ### Question 7 (Draft Question 2): Premium Experience Alignment
 *   **Draft Phrasing:** *"To what extent do you agree with this statement: 'The current commuting logistics align with the premium experience expected of a top-tier MBA program for working professionals'?"*
-*   **Revised Phrasing:** **"How well do the current commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?"**
+*   **Revised Phrasing:** **"How well do the new commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?"**
 *   **Response Scale:** 1 to 5 (*Not at all aligned* to *Perfectly aligned*)
 *   **Rationale:** Changing from statement-agreement to direct evaluation eliminates **acquiescence bias** (the tendency of respondents to agree with assertions), producing more objective sentiment data.
 
 ### Question 9 (Draft Question 1): Advice to Prospective Students
 *   **Draft Phrasing:** *"...how heavily would you advise them to factor in the current commuting/parking situation?"*
-*   **Revised Phrasing:** **"...how would you suggest they view the current commuting and parking situation?"**
+*   **Revised Phrasing:** **"...how would you suggest they view the new commuting and parking situation?"**
 *   **Response Options:**
     *   *It is a non-issue (not a factor in the decision).*
     *   *It is a minor factor (manageable annoyance, but should not affect enrollment).*
@@ -63,13 +63,13 @@ The survey is active on your UC Berkeley Qualtrics account:
 4.  **Q3 (TE):** What is your departure ZIP code or city when commuting to campus?
 5.  **Q4 (MC):** On average, how long is your one-way commute to Haas?
 6.  **Q5 (Matrix):** Satisfaction with parking availability, cost, safety, public transit, and Haas support.
-7.  **Q6 (MC):** How well do the current commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?
+7.  **Q6 (MC):** **How well do the new commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?**
 8.  **Q7 (MC):** How often have commuting or parking difficulties caused you to be late for class, miss class, or miss networking/group work?
-9.  **Q8 (MC):** How would you suggest a prospective student view the current commuting and parking situation?
+9.  **Q8 (MC):** **If a prospective applicant with a similar professional and geographical profile asked for your honest advice about joining Haas, how would you suggest they view the new commuting and parking situation?**
 10. **Q9 (MC):** How frequently do you use the mandatory AC Transit Class Pass (bus pass) to commute to campus?
 11. **Q10 (MC):** Would you choose to opt-out of the transit fee if given the option?
-12. **Q11 (MC):** **For a hypothetical program providing guaranteed, hassle-free parking exclusively for professional students on class days, what is the maximum amount you would be willing to pay out-of-pocket PER SEMESTER?**
-13. **Q12 (MC):** **For a hypothetical program providing a premium transit solution (e.g., dedicated shuttles, subsidized rideshare partnerships, or express transit credits) exclusively for professional students on class days, what is the maximum amount you would be willing to pay out-of-pocket PER SEMESTER?**
+12. **Q11 (MC):** For a hypothetical program providing guaranteed, hassle-free parking exclusively for professional students on class days, what is the maximum amount you would be willing to pay out-of-pocket PER SEMESTER?
+13. **Q12 (MC):** For a hypothetical program providing a premium transit solution (e.g., dedicated shuttles, subsidized rideshare partnerships, or express transit credits) exclusively for professional students on class days, what is the maximum amount you would be willing to pay out-of-pocket PER SEMESTER?
 14. **Q13 (TE):** Additional comments, feedback, or suggestions.
 
 ---
@@ -79,6 +79,6 @@ The survey is active on your UC Berkeley Qualtrics account:
 Please apply these final two settings in your Qualtrics editor to finish the survey setup:
 1.  **Add Display Logic for Willingness-to-Pay (WTP):**
     *   Click on **Q11 (Parking WTP)** $\rightarrow$ scroll down the left sidebar $\rightarrow$ click **Add Display Logic** $\rightarrow$ set it to show only if **Q2 (Transit Mode)** is *Drive alone* or *Carpool*.
-    *   Click on **Q12 (Transit WTP)** $\rightarrow$ click **Add Display Logic** $\rightarrow$ set it to show only if **Q2** is *BART*, *AC Transit*, or *CalTrain / Capitol Corridor*.
+    *   Click on **Q12 (Transit WTP)** $\rightarrow$ click **Add Display Logic** $\rightarrow$ set it to show only if **Q2** is *BART*, *AC Transit*, or *CalTrain / Corridor*.
 2.  **Add Page Breaks:**
     *   Hover between questions and click **Add Page Break** after **Q4** (demographic profile page), after **Q7** (experience page), and after **Q10** (AC Transit pass page).

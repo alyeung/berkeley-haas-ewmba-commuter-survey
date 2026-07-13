@@ -55,7 +55,7 @@ Haas communication/support regarding commute logistics
 
 [[Question:MC:SingleAnswer:Vertical]]
 [[ID:Q_PremiumExperience]]
-<b>6. How well do the current commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?</b>
+<b>6. How well do the new commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?</b>
 [[Choices]]
 1 - Not at all aligned
 2 - Slightly aligned
@@ -74,7 +74,7 @@ Frequently (6+ times per semester)
 
 [[Question:MC:SingleAnswer:Vertical]]
 [[ID:Q_ProspectiveAdvice]]
-<b>8. If a prospective applicant with a similar professional and geographical profile asked for your honest advice about joining Haas, how would you suggest they view the current commuting and parking situation?</b>
+<b>8. If a prospective applicant with a similar professional and geographical profile asked for your honest advice about joining Haas, how would you suggest they view the new commuting and parking situation?</b>
 [[Choices]]
 It is a non-issue (not a factor in the decision).
 It is a minor factor (manageable annoyance, but should not affect enrollment).

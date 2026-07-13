@@ -138,7 +138,7 @@ questions = [
         "AnswerOrder": ["1", "2", "3", "4", "5"]
     },
     {
-        "QuestionText": "<b>6. How well do the current commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?</b>",
+        "QuestionText": "<b>6. How well do the new commuting and parking logistics align with the premium experience expected of a top-tier MBA program for working professionals?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",
@@ -165,7 +165,7 @@ questions = [
         "ChoiceOrder": ["1", "2", "3", "4"]
     },
     {
-        "QuestionText": "<b>8. If a prospective applicant with a similar professional and geographical profile asked for your honest advice about joining Haas, how would you suggest they view the current commuting and parking situation?</b>",
+        "QuestionText": "<b>8. If a prospective applicant with a similar professional and geographical profile asked for your honest advice about joining Haas, how would you suggest they view the new commuting and parking situation?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",
