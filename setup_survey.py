@@ -47,7 +47,7 @@ print(f"Block ID: {block_id}\n")
 # 2. Define questions
 questions = [
     {
-        "QuestionText": "Haas EWMBA Commuter Survey<br><br>Help us advocate for better commuting and parking options at Haas. This 3-minute survey is conducted by your EWMBA Association (EWMBAA) officers. Your responses are completely anonymous, confidential, and will be shared directly with Haas leadership.",
+        "QuestionText": "<b>Haas Evening & Weekend MBA (EWMBA) Commuter Survey</b><br><br>Help us advocate for better commuting and parking options at Haas. This 3-minute survey is conducted by your Evening & Weekend MBA Association (EWMBAA) officers. Your responses are completely anonymous, confidential, and will be shared directly with Haas leadership.",
         "QuestionType": "DB",
         "Selector": "TB"
     },
