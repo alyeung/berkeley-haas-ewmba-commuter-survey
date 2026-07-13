@@ -65,7 +65,7 @@ Haas communication/support regarding commute logistics
 
 [[Question:MC:SingleAnswer:Vertical]]
 [[ID:Q_AcademicImpact]]
-<b>7. How often have commuting or parking difficulties caused you to be late for class, miss class entirely, or miss networking/group work opportunities?</b>
+<b>7. How frequently have parking or transit delays directly disrupted your academic schedule (e.g., arriving late to class, missing a lecture, or missing scheduled group meetings)?</b>
 [[Choices]]
 Never
 Rarely (1-2 times per semester)

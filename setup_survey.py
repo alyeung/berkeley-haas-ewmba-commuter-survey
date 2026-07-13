@@ -152,7 +152,7 @@ questions = [
         "ChoiceOrder": ["1", "2", "3", "4", "5"]
     },
     {
-        "QuestionText": "<b>7. How often have commuting or parking difficulties caused you to be late for class, miss class entirely, or miss networking/group work opportunities?</b>",
+        "QuestionText": "<b>7. How frequently have parking or transit delays directly disrupted your academic schedule (e.g., arriving late to class, missing a lecture, or missing scheduled group meetings)?</b>",
         "QuestionType": "MC",
         "Selector": "SAVR",
         "SubSelector": "TX",
