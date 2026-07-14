@@ -24,7 +24,19 @@ We received **79 detailed responses** from EWMBA students representing the Eveni
 
 ---
 
-### 2. Feedback Themes & Aligned Data
+### 2. Proposed Alternatives vs. Student Reality
+The Program Office's announcement email highlighted several transportation alternatives. Below, we cross-reference those alternatives with the actual survey data to show the operational disconnect:
+
+| School's Proposed Alternative | The Student Reality (Backed by Data) | The Operational Disconnect |
+| :--- | :--- | :--- |
+| **Mountain View Shuttle** <br>*(Mon-Thu, 4pm/9pm)* | • Only **2.5%** of students utilize it.<br>• **0%** utility for Weekend cohorts. | **Timing Mismatch:** Departing Haas at 9:00 PM forces students to leave late-evening classes early or skip post-class networking. |
+| **UC Berkeley BayPass** <br>*(Transit pass)* | • Only **2.5%** of students use it.<br>• **74.7%** of students want to opt out of the fee. | **Safety & Logistics:** Walking to BART and riding at 10:00 PM is unsafe/tiring. Southbound trains run only every 30 minutes, stranding students. |
+| **Bear Transit** <br>*(Campus shuttles)* | • Not used for regional commutes. | **Local Only:** Serves local campus routes, providing no value for students commuting from San Jose, SF, Marin, or East Bay. |
+| **"Low-Cost" Permits** <br>*('S' & 'H' permits)* | • **94.9%** say parking is crucial.<br>• Adds **$400–$1,000/year** out-of-pocket. | **Double-Charging:** Felt as a "bait-and-switch" fee on top of a $200/credit tuition hike and mandatory unused facility fees. |
+
+---
+
+### 3. Feedback Themes & Aligned Data
 
 #### Theme A: Breach of Trust & "Bait-and-Switch" Sentiment
 Students explicitly applied and committed to Haas with the promise that parking permits were included in tuition. Revoking this benefit mid-program is viewed as a deceptive transactional change.
@@ -48,7 +60,7 @@ Public transit at 10:00 PM is unsafe and impractical. Sparse train schedules for
 
 ---
 
-### 3. Proposed Compromise Solutions
+### 4. Proposed Compromise Solutions
 We propose evaluating the following win-win compromises to balance the university's goals with the student experience:
 
 1.  **Class-Time Parking Permits (Highly Recommended):**  
